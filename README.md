@@ -10,3 +10,6 @@ The design focuses on responsive behavior, smooth transitions, and clean code st
 
 ## How to view
 <a href="https://htmlpreview.github.io/?https://github.com/navidmostafaei/expanding-card-vanilla-js/blob/main/index.html">Preview</a>
+
+##Preview
+<img src="images/preview.webp"/>
